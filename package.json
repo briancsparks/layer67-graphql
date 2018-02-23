@@ -1,0 +1,19 @@
+{
+  "name": "layer67-graphql",
+  "version": "0.5.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/briancsparks/layer67-graphql.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/briancsparks/layer67-graphql/issues"
+  },
+  "homepage": "https://github.com/briancsparks/layer67-graphql#readme"
+}
